@@ -19,13 +19,6 @@ In this repository, I demonstrate proficiency in:
 
 ---
 
-## 📁 Repository Content
-* `/scripts`: SQL files containing the creation of schemas and data insertion.
-* `/queries`: A collection of business-driven queries (e.g., Sales performance, user behavior, inventory management).
-* `/diagrams`: Visual ERD (Entity-Relationship Diagrams) showing the architecture of the databases.
-
----
-
 ## 🚀 Featured Challenge: "The Business Analytics Suite"
 One of the main exercises involved creating a database from scratch for a [Events Enterprise].
 * **The Problem:** Manage the diversity of events and details, as well as the earnings obtained.
