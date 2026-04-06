@@ -38,7 +38,7 @@ The projects are organized by specialized modules:
 ### 📈 Arte Vida Cultural
 * **Description:** Analysis, design and implementation of a database.
 * **Key Tech:** SQL.
-* **Outcome:** Achieved a **10/10** developing thw whole model from the entuty-relation model until the implementation on SQL.
+* **Outcome:** Achieved a **10/10** developing the whole model from the entuty-relation model until the implementation on SQL.
 
 ### 🤖 Football Analysis to create the perfect team
 * **Description:** Real-time analysis of top league statistics to build a team.
