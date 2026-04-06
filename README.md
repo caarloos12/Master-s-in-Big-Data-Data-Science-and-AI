@@ -11,10 +11,10 @@ This repository contains all the projects, assignments, and research conducted d
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, Scikit-learn, PyTorch, TensorFlow), R, SQL |
+| **Languages** | Python (Pandas, Scikit-learn, PyTorch, TensorFlow), SQL |
 | **Big Data** | Apache Spark, Hadoop, Kafka, NoSQL (MongoDB, Cassandra) |
 | **AI & Machine Learning** | Deep Learning, NLP, Computer Vision, Reinforcement Learning |
-| **Data Visualization** | Tableau, Power BI, Plotly, Matplotlib, Seaborn |
+| **Data Visualization** | Tableau, Plotly, Matplotlib, Seaborn |
 | **Cloud & DevOps** | AWS/Azure, Docker, Kubernetes, Git, MLflow |
 
 ---
@@ -35,14 +35,14 @@ The projects are organized by specialized modules:
 
 > **Note:** Below are some of the most impactful projects within this repository.
 
-### 📈 [Project Name 1]
-* **Description:** Brief one-sentence explanation of the problem.
-* **Key Tech:** Python, XGBoost, Optuna.
-* **Outcome:** Achieved a **[Metric, e.g., 94% F1-Score]** in predicting [Target].
+### 📈 Arte Vida Cultural
+* **Description:** Analysis, design and implementation of a database.
+* **Key Tech:** SQL.
+* **Outcome:** Achieved a **10/10** developing thw whole model from the entuty-relation model until the implementation on SQL.
 
-### 🤖 [Project Name 2]
-* **Description:** Real-time sentiment analysis using streaming data.
-* **Key Tech:** Spark Streaming, Kafka, HuggingFace.
+### 🤖 Football Analysis to create the perfect team
+* **Description:** Real-time analysis of top league statistics to build a team.
+* **Key Tech:** PyMongo, MongoDB, Python.
 
 ---
 
@@ -50,9 +50,8 @@ The projects are organized by specialized modules:
 
 I am always open to discussing data, AI, or potential collaborations.
 
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Address Here]
-* **Personal Portfolio:** [Optional Link]
+* **LinkedIn:** www.linkedin.com/in/carlossanromancazorla/
+* **Email:** c.sanroman.cvg@gmail.com
 
 ---
-*Created with ❤️ by [Your Name]*
+*Created with ❤️ by Carlos*
