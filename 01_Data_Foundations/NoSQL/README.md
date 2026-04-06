@@ -13,7 +13,7 @@ Instead of just buying the stars, we use data to find "hidden gems"—players wh
 
 1.  **Data Ingestion:**
     * Scraping and downloading updated datasets from major European leagues.
-    * Data source: [Specify source, e.g., Football-Data.org API, FBRef, or Kaggle].
+    * Data source: Kaggle.
 2.  **Storage (NoSQL):**
     * Importing raw JSON/BSON data into **MongoDB**.
     * Leveraging NoSQL's flexible schema to store diverse player statistics (goals, assists, xG, defensive actions, and financial data).
