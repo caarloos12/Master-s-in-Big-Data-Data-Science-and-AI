@@ -85,24 +85,6 @@ To exceed standard requirements and deliver executive-grade usability:
 
 ---
 
-## 🚀 Repository & Delivery Structure
-
-```text
-├── data/
-│   └── Easy Loans Operaciones 2023.xlsx   # Raw source dataset
-├── docs/
-│   └── Business Intelligence con Tableau - Tarea Final Easy Loans.pdf
-├── dashboards/
-│   └── Easy_Loans_Final_Assignment.twbx  # Packaged Tableau workbook
-├── screenshots/
-│   ├── main_dashboard.png                # Main dashboard screenshot
-│   └── cloud_publication.png             # Tableau Cloud/Public proof (Bonus)
-└── README.md                             # Project documentation
-
-```
-
----
-
 ## ☁️ Deployment & Bonus Submissions
 
 * **Tableau Cloud / Public**: Published workbook accessible with appropriate permissions for academic evaluation.
