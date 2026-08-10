@@ -178,31 +178,11 @@ The raw dataset underwent strict quality engineering prior to model fitting:
 
 | Metric | Train Set | Test Set |
 | --- | --- | --- |
-| **Optimal Cutoff** | 0.21
-
- | 0.21
-
- |
-| **Accuracy** | 76.78%
-
- | 78.12%
-
- |
-| **Sensitivity (Recall)** | 83.28%
-
- | 83.93%
-
- |
-| **Specificity** | 74.90%
-
- | 76.49%
-
- |
-| **Negative Predictive Value (NPV)** | 93.94%
-
- | 94.42%
-
- |
+| **Optimal Cutoff** | 0.21 | 0.21 |
+| **Accuracy** | 76.78% | 78.12% |
+| **Sensitivity (Recall)** | 83.28% | 83.93% |
+| **Specificity** | 74.90% | 76.49% |
+| **Negative Predictive Value (NPV)** | 93.94% | 94.42% |
 
 * **Top Explanatory Predictors**: `CodigoProvincia`, `DifComAutonPtge`, `ActividadPpal`, `CCAA`.
 
