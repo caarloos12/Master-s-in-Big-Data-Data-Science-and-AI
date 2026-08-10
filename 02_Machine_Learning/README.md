@@ -35,11 +35,10 @@ This repository contains all code, notebooks, and analytical reports developed f
 02_Machine_Learning/
 ├── 01_Statistics_Foundations/       # Inferential statistics, hypothesis testing, EDA
 ├── 02_Data_Mining/                  # Association rules (Apriori), feature selection
-├── 03_SVM/                          # Support Vector Machines (SVC / SVR + Kernels)
-├── 04_Ensemble_Methods/             # Bagging, Boosting (XGBoost, LightGBM, CatBoost)
-├── 05_PCA_Clustering/               # PCA, t-SNE, UMAP variance analysi, K-Means, Hierarchical, DBSCAN, Silhouette metrics
-├── 07_Time_Series/                  # ARIMA/SARIMA, Prophet, Lag feature modeling
-├── 08_Neural_Networks/              # Perceptrons, MLPs, CNNs, LSTMs (Keras / PyTorch)
+├── 03_SVM/                          # Support Vector Machines (SVC / SVR + Kernels), Bagging, Boosting (XGBoost, LightGBM, CatBoost)
+├── 04_PCA_Clustering/               # PCA, t-SNE, UMAP variance analysi, K-Means, Hierarchical, DBSCAN, Silhouette metrics
+├── 05_Time_Series/                  # ARIMA/SARIMA, Prophet, Lag feature modeling
+├── 06_Neural_Networks/              # Perceptrons, MLPs, CNNs, LSTMs (Keras / PyTorch)
 ├── Domain_Applications/
 │   ├── Financial_Modelling/         # Risk scoring, algorithmic signals, portfolio optimization
 │   └── Geostatistics/               # Spatial interpolation, Kriging, Spatial Autocorrelation
