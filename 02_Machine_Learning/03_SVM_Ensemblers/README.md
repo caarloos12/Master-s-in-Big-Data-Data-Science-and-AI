@@ -105,18 +105,10 @@ Evaluation results on the unseen test dataset:
 
 | Model | Test Accuracy | Test AUC | Recall (Class 1) | Characteristics |
 | --- | --- | --- | --- | --- |
-| **Linear SVM** | 76.08% | 84.93% | 81.10% | High explainability; struggles with non-linear relationships.
-
- |
-| **RBF SVM** | 86.72% | 92.11% | 84.90% | Excellent balance between bias, variance, and complexity.
-
- |
-| **Bagging (RBF SVM)** | 90.96% | 92.28% | 67.00% | Increases robustness, but reduces positive class recall.
-
- |
-| **Stacking Classifier** | **94.35%** | **93.86%** | 80.70% | **Best overall accuracy**, minimizing overall false positives.
-
- |
+| **Linear SVM** | 76.08% | 84.93% | 81.10% | High explainability; struggles with non-linear relationships. |
+| **RBF SVM** | 86.72% | 92.11% | 84.90% | Excellent balance between bias, variance, and complexity. |
+| **Bagging (RBF SVM)** | 90.96% | 92.28% | 67.00% | Increases robustness, but reduces positive class recall. |
+| **Stacking Classifier** | **94.35%** | **93.86%** | 80.70% | **Best overall accuracy**, minimizing overall false positives. |
 
 ---
 
